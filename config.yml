@@ -1,0 +1,24 @@
+# This has to be an integer. Read more [here](https://core.telegram.org/api/obtaining_api_id) | No quotes
+api_id: 13159539 
+
+# Long 32 characters hash identifier. Read more [here](https://core.telegram.org/api/obtaining_api_id) | With quotes
+api_hash: 'a924e62d722c9834e11297617cf78324' 
+
+# Session name. Only one session (with a unique session name) can run at a time | With quotes
+session_name: 'forwardgram' 
+
+# Discord Bot Token. Go create a bot on discord. | No quotes
+discord_bot_token: MTAxNzA3ODgwODM0MTQwMTY1MA.GAY_lY.uRlPZA03EJNnSYZ60KxzyF4la3IEkzN1wLnRG4
+
+# Discord Channel | No quotes
+discord_channel: 1017078119217242123
+
+# The channel names that you'd like to forward messages from. Just add input telegram channel names here.
+# The user running the client must have these channels present on it's dialogs. 
+input_channel_name: 'TipManager Bot'
+
+# The channel IDs that you'd like to forward messages from. Just get channel id from channels you put as input_channel_names above (You can get a channel ID by forwarding any message from it to @userinfobot , and removing the -100 from the start ) 
+
+# Do not touch this: 
+
+webhook: 'https://discord.com/api/webhooks/1017483083647295499/uyYxGXKITiCxFbxM3lb-wKdrtSbxNWwBiBvLpJbblIZxz5Q2aUZGe8_MhuicXYsJIh0f' 
